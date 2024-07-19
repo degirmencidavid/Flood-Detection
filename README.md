@@ -1,5 +1,3 @@
-# Machine Learned Flood Mapping Project
+# Machine Learned Flood Mapping Project Sample
 
-Some (most) of the code I wrote for my Masters project.
-
-NB - not the full / some outdated implementation of some of the methods I have used.
+Simplified version of my flood detection and training model I developed for my masters project
